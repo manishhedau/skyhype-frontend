@@ -130,8 +130,8 @@ const LandingPage = () => {
 
                 <div id="download-section">
                     <h1>Launching soon on</h1>
-                    <a href="#"><img src={PlayStore} alt="Play Store" /></a>
-                    <a href="#"><img src={AppleStore} alt="Apple Store" /></a>
+                    <a href="/"><img src={PlayStore} alt="Play Store" /></a>
+                    <a href="/"><img src={AppleStore} alt="Apple Store" /></a>
                 </div>
             </footer >
 

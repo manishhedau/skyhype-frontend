@@ -1,6 +1,6 @@
 import './styles/profile_page.css';
 import ActivityTile from './profile_page_activity_tile';
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, useRef, useCallback } from 'react';
 import { callIPInfo, getUserDetails, sendActivityLinkClickInfo, sendSocialLinkClickInfo, sendJoinClickInfo, sendViewInfo, sendJoinClubUserInfo } from "../../services/apiEndpoint";
 import { useParams } from 'react-router-dom';
 
@@ -70,7 +70,7 @@ const ProfilePage = () => {
         setIsVisible(true);
     }
 
-    const getIpInfoAndUAParserInfo = async () => {
+    const getIpInfoAndUAParserInfo = useCallback(async () => {
         // intigrate services of ip info
         const ipInfo = await callIPInfo();
         setIpInfo(ipInfo);
@@ -100,13 +100,13 @@ const ProfilePage = () => {
             // localStorage.setItem("isFirst", "true");
             setIsFirst(true);
         }
-    }
+    }, [isFirst, userId])
 
-    const fetchUserProfileData = async () => {
+    const fetchUserProfileData = useCallback(async () => {
         const res = await getUserDetails(userId);
         const data = await res.data;
         setUserInfo(data);
-    }
+    }, [userId])
 
     const handleSendJoinMyClubInfo = () => {
         const name = fullnameRef.current.value;
@@ -122,7 +122,7 @@ const ProfilePage = () => {
     useEffect(() => {
         getIpInfoAndUAParserInfo();
         fetchUserProfileData();
-    }, [])
+    }, [getIpInfoAndUAParserInfo, fetchUserProfileData])
 
     const { social_link_list, fullname, description, designation, activity_links_list, view } = userInfo;
     console.log(description)
@@ -140,7 +140,7 @@ const ProfilePage = () => {
                 <h1 className="company-logo">Skyhype</h1>
 
                 <div className="profile-info">
-                    <img src={store.profile_image} alt="Profile Image" />
+                    <img src={store.profile_image} alt="profile pic" />
                     <h1 style={{ textTransform: "capitalize" }}>{fullname}</h1>
                     <h4 style={{ textTransform: "capitalize", fontSize: "20px" }}>{designation}</h4>
 
@@ -152,13 +152,13 @@ const ProfilePage = () => {
 
                     <div className="social-media-links">
                         {social_link_list.map((link, ind) => (
-                            link.isActive && <a key={ind} onClick={() => onSocialLinkClickHandler(link)}><i className={`fab fa-${link.social_media}`}></i></a>
+                            link.isActive && <a key={ind} href={link.link} onClick={() => onSocialLinkClickHandler(link)}><i className={`fab fa-${link.social_media}`}></i></a>
                         ))}
                     </div>
                 </div>
 
                 {spotlight[0] && <div className="slideshow">
-                    <img src="https://miro.medium.com/max/4800/1*scwcpro6eU-pORVH_Fpc_g.png" />
+                    <img src="https://miro.medium.com/max/4800/1*scwcpro6eU-pORVH_Fpc_g.png" alt="activity link" />
                 </div>}
 
                 <div className="activity-links">

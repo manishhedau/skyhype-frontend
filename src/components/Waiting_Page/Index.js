@@ -12,7 +12,7 @@ function WaitingPage() {
             <div className="waiting__page">
                 <div className="waiting__list">
                     <div className="waiting__list__text">
-                        <img src={check} />
+                        <img src={check} alt="right tick pic" />
                         <h4>Application Submitted</h4>
                         <h5>follow us on Instagram <a href="https://instagram.com/skyhypesocial?utm_medium=copy_link">@skyhype</a> to verify your account</h5>
                     </div>

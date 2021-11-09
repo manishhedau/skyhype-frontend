@@ -16,7 +16,7 @@ const LandingNavbar = (props) => {
             <h1>SkyHype</h1>
 
             <div className="links">
-                <div id="blog-link"><a href="https://skyhype.in/wordpress/index.php/blog/" target="_blank">Blog</a></div>
+                <div id="blog-link"><a href="https://skyhype.in/wordpress/index.php/blog/" target="_blank" rel="noreferrer">Blog</a></div>
                 <Link to="/login"><div>Login</div></Link>
                 <Link to="/signup"><div id="signup-button">Signup</div></Link>
             </div>

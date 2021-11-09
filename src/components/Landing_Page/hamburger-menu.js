@@ -14,7 +14,7 @@ const HamburgerMenu = (props) => {
 
                     <i className="fas fa-times" id="close-menu" onClick={handleToggle}></i>
 
-                    <a href="https://skyhype.in/wordpress/index.php/blog/" target="_blank"><div>Blog</div></a>
+                    <a href="https://skyhype.in/wordpress/index.php/blog/" target="_blank" rel="noreferrer"><div>Blog</div></a>
                     <Link to="/login"><div>Login</div></Link>
                     <Link to="/signup"><div>Signup</div></Link>
 
