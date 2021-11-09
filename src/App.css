@@ -1,0 +1,41 @@
+*
+{
+  margin:0;
+  box-sizing: border-box;
+}
+
+.App
+{
+  min-height: 100vh;
+  min-width: 100vw;
+
+  height: auto;
+  width: auto;
+}
+
+
+/* .MuiOutlinedInput-notchedOutline {
+  border-color: transparent;
+} */
+
+
+.arc text {
+  color: white;
+  font: 15px sans-serif;  
+  text-anchor: middle;
+  margin-left: 15px;
+}
+
+/* .arc path {
+  stroke: #fff;
+} */
+
+/* .title {
+  fill: teal;
+  font-weight: bold;
+} */
+
+.analytics__page{
+  display: flex;
+  flex-direction: column;
+}

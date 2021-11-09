@@ -1,0 +1,45 @@
+.font-tile
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(to top right, #86cddb, #2dc3e0); */
+    background-color: #b4cade;
+    width: 80%;
+    cursor: pointer;
+    height: 80%;
+    /* background-color: crimson; */
+    border-radius: 10px;
+    border: 7px solid black;
+    transition: 0.3s;
+    white-space: nowrap;
+}
+
+.font-tile:hover
+{
+    transform: scale(1.05);
+}
+
+p{
+    text-align: center;
+    font-size: 1em;
+}
+
+@media (max-width: 454px)
+{
+    .font-tile
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(to top right, #86cddb, #2dc3e0);
+        width: 100%;
+        cursor: pointer;
+        height: 70%;
+        /* background-color: crimson; */
+        border-radius: 10px;
+        border: 7px solid black;
+        transition: 0.3s;
+        white-space: nowrap;
+    }
+}

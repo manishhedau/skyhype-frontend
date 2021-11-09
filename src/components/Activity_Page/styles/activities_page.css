@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.activities-page
+{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+    align-items: center;
+    min-width: 63vw;
+    width: auto;
+    height: 100vh;
+    /* height: auto;
+    width: auto; */
+    padding: 2% 0;
+    /* background: linear-gradient(to top left, rgba(177, 188, 204,0.6),rgba(215,227,245,0.6)); */
+    /* box-shadow: 0 0 18px 2px rgb(215,227,245); */
+}
+
+.activity-list
+{
+    /* background: linear-gradient(to top left,rgba(177, 188, 204,0.6),rgba(215,227,245,0.6));  */
+    /* box-shadow: 0 0 15px 0 rgba(168, 181, 199, 0.6); */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 77%;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    padding-top: 5%;
+    padding:0 10%;
+}
+
+.add-link-controls
+{
+    width: 75%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3% 0;
+}
+
+.add-link-controls button
+{
+    width: 50%
+}
+
+.add-link-controls h5
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+@media (max-width: 850px)
+{   
+    .activities-page
+    {
+        font-family: 'Roboto', sans-serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;  
+        align-items: center;
+        width: 100vw;
+        /* height: auto;
+        width: auto; */
+        height: 100vh;
+        padding: 2% 0;
+        background: linear-gradient(to top left, rgba(177, 188, 204,0.6),rgba(215,227,245,0.6));
+        box-shadow: 0 0 18px 2px rgb(215,227,245);
+    }
+
+    .add-link-controls
+    {
+        width: 100%;
+    }
+
+    .add-link-controls button
+    {
+        width: 50%
+    }
+
+    .activity-list
+    {
+        /* background: linear-gradient(to top left,rgba(177, 188, 204,0.6),rgba(215,227,245,0.6));  */
+        /* box-shadow: 0 0 15px 0 rgba(168, 181, 199, 0.6); */
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: 60%;
+        scroll-margin: 10px 10px 10px 10px;
+        overflow-y: scroll;
+        scrollbar-width: none;
+        padding: 10%;
+    }
+}

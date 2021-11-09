@@ -1,0 +1,20 @@
+.main-linechart
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+}
+
+.main-linechart h1
+{
+    margin-bottom: 13%;
+}
+
+.social-media-container
+{
+    height: 50%;
+    width: 70%;
+}

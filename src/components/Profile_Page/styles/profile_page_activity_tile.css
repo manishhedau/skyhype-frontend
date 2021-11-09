@@ -1,0 +1,22 @@
+.activity-tile
+{
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+
+    background-color: white;
+}
+
+.activity-tile img
+{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 75%;
+    width: 100%;
+}
+
+.activity-tile p
+{
+    width: 100%;
+    text-align: center;
+}

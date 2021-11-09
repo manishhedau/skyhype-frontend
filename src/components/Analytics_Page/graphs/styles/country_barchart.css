@@ -1,0 +1,21 @@
+#country-graph-container
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#country-graph-svg
+{
+    height: 80%;
+    padding-bottom: 1rem;
+    width: 80%;
+}
+
+#country-graph-svg canvas
+{
+    height: 100%;
+    width: 100%;
+}

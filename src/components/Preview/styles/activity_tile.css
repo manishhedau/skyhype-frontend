@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.activity-tile
+{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.activity-tile img
+{
+    border-radius: 10px ;
+    height: 90%;
+    max-height: 80%;
+    width: 100%;
+}
+
+.activity-tile p
+{
+    height: 10%;
+    text-align: center;
+    width: 100%;
+} 

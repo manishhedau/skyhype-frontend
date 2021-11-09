@@ -1,0 +1,50 @@
+.profile__container{
+    margin: 0px auto;
+    margin-top:100px;
+    max-width: 1200px;
+    border: 1px solid #ccc;
+    padding:30px;
+}
+
+.profile__heading{
+    text-align:center;
+}
+
+
+.form__profile__row{
+    display:flex;
+    margin-bottom: 1rem;
+}
+
+.form__profile__field{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+
+
+.form__profile__field input, select{
+    border: none;
+    outline: none;
+    padding:10px 10px;
+    border-radius: 15px;
+    background-color: rgb(218, 62, 62);
+}
+
+.form__btn{
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width:570px) {
+    .form__profile__row{
+        flex-direction: column;
+    }
+    .form__profile__field{
+        margin-left: 0px;
+    }
+    .form__profile__field:last-child{ 
+        margin-top: 1rem;
+    }
+}

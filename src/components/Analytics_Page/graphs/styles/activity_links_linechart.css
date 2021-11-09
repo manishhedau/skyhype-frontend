@@ -1,0 +1,12 @@
+#activity-link-linechart
+{
+    height: 50vh;
+    width: 75%;
+    margin-bottom: 5vh;
+}
+
+#activity-linechart-svg
+{
+    height: 100%;
+    width: 100%;
+}

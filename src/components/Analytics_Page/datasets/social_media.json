@@ -1,0 +1,139 @@
+{
+    "social_link_list": [
+        {
+            "link": "facebook",
+            "isActive": true,
+            "click_details": [
+                {
+                    "ip_address": "127.0.0.1",
+                    "city": "delhi",
+                    "country": "india",
+                    "device": "mobile",
+                    "date": "2020-05-01"
+                },
+                {
+                    "ip_address": "127.0.0.2",
+                    "city": "indore",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-02"
+                }
+            ]
+        },
+        {
+            "link": "instgram",
+            "isActive": true,
+            "click_details": [
+                {
+                    "ip_address": "127.0.0.3",
+                    "city": "Mumbai",
+                    "country": "india",
+                    "device": "tab",
+                    "date": "2020-05-03"
+                },
+                {
+                    "ip_address": "127.0.0.4",
+                    "city": "Bangalore",
+                    "country": "india",
+                    "device": "tab",
+                    "date": "2020-05-04"
+                }
+            ]
+        },
+        {
+            "link": "twitter",
+            "isActive": true,
+            "click_details": [
+                {
+                    "ip_address": "127.0.0.5",
+                    "city": "Hyderabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-05"
+                },
+                {
+                    "ip_address": "127.0.0.6",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-06"
+                }
+            ]
+        },
+        {
+            "link": "youtube",
+            "isActive": true,
+            "click_details": [
+                {
+                    "ip_address": "127.0.0.7",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-07"
+                },
+                {
+                    "ip_address": "127.0.0.8",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-08"
+                },
+                {
+                    "ip_address": "127.0.0.13",
+                    "city": "Bhopal",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-13"
+                },
+                {
+                    "ip_address": "127.0.0.14",
+                    "city": "Nagpur",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-14"
+                }
+            ]
+        },
+        {
+            "link": "tik-tok",
+            "isActive": true,
+            "click_details": [
+                {
+                    "ip_address": "127.0.0.9",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-09"
+                },
+                {
+                    "ip_address": "127.0.0.10",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-10"
+                },
+                {
+                    "ip_address": "127.0.0.11",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-11"
+                },
+                {
+                    "ip_address": "127.0.0.12",
+                    "city": "Patna",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-12"
+                },
+                {
+                    "ip_address": "127.0.0.15",
+                    "city": "Ahmedabad",
+                    "country": "india",
+                    "device": "desktop",
+                    "date": "2020-05-15"
+                }
+            ]
+        }
+    ]
+}

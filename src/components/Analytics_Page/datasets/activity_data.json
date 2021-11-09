@@ -1,0 +1,1504 @@
+{
+    "activities": [
+        {
+            "clicks": 50,
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "ip_address": "127.0.0.1",
+            "views": 79,
+            "city": "Sydney",
+            "country": "Australia",
+            "device": "mobile",
+            "date": "2020-05-01"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 40,
+            "views": 98,
+            "ip_address": "127.0.0.2",
+            "city": "Moscow",
+            "country": "Russia",
+            "device": "desktop",
+            "date": "2020-05-02"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 80,
+            "views": 23,
+            "ip_address": "127.0.0.3",
+            "city": "Mumbai",
+            "country": "India",
+            "device": "tab",
+            "date": "2020-05-03"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 20,
+            "views": 34,
+            "ip_address": "127.0.0.4",
+            "city": "Bangalore",
+            "country": "India",
+            "device": "tab",
+            "date": "2020-05-04"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 70,
+            "views": 34,
+            "ip_address": "127.0.0.5",
+            "city": "Kentucky",
+            "country": "USA",
+            "device": "desktop",
+            "date": "2020-05-05"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 100,
+            "views": 70,
+            "ip_address": "127.0.0.6",
+            "city": "Illanois",
+            "country": "USA",
+            "device": "desktop",
+            "date": "2020-05-06"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 45,
+            "views": 76,
+            "ip_address": "127.0.0.7",
+            "city": "Washington",
+            "country": "USA",
+            "device": "desktop",
+            "date": "2020-05-07"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 66,
+            "views": 45,
+            "ip_address": "127.0.0.8",
+            "city": "Perth",
+            "country": "South Africa",
+            "device": "desktop",
+            "date": "2020-05-08"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 78,
+            "views": 22,
+            "ip_address": "127.0.0.9",
+            "city": "Ahmedabad",
+            "country": "India",
+            "device": "desktop",
+            "date": "2020-05-09"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-04-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-12-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-22"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-10-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-02-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-01-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-30"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-21"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2011-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-13"
+                    }
+                ]
+            },
+            "clicks": 56,
+            "views": 33,
+            "ip_address": "127.0.0.10",
+            "city": "Karachi",
+            "country": "Pakistan",
+            "device": "desktop",
+            "date": "2020-05-10"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 12,
+            "views": 56,
+            "ip_address": "127.0.0.11",
+            "city": "Tokyo",
+            "country": "Japan",
+            "device": "desktop",
+            "date": "2020-05-11"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 12,
+            "views": 40,
+            "ip_address": "127.0.0.12",
+            "city": "Beijing",
+            "country": "China",
+            "device": "desktop",
+            "date": "2020-05-12"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 12,
+            "views": 12,
+            "ip_address": "127.0.0.13",
+            "city": "London",
+            "country": "UK",
+            "device": "desktop",
+            "date": "2020-05-13"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 35,
+            "views": 77,
+            "ip_address": "127.0.0.14",
+            "city": "Nagpur",
+            "country": "India",
+            "device": "desktop",
+            "date": "2020-05-14"
+        },
+        {
+            "activity": {
+                "title": "Some Title",
+                "link": "some link",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rEViQFqtfA7SFxmmAHw-3gHaKM%26pid%3DApi&f=1",
+                "view_details": [
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-06-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-20"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-31"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-5"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-11-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2021-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-07-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-23"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-11"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2010-05-15"
+                    },
+                    {
+                        "ip_address": "127.0.0.15",
+                        "city": "Colombo",
+                        "country": "Sri Lanka",
+                        "device": "desktop",
+                        "date": "2020-05-13"
+                    }
+                ]
+            },
+            "clicks": 78,
+            "views": 25,
+            "ip_address": "127.0.0.15",
+            "city": "Colombo",
+            "country": "Sri Lanka",
+            "device": "desktop",
+            "date": "2020-12-25"
+        }
+    ]
+}

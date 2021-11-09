@@ -1,0 +1,65 @@
+
+.social_links_form{
+    overflow: hidden;
+}
+
+.social_section{
+    margin: 0 auto;
+    height:95vh;
+    /* max-width:1200px; */
+    /* width:100%; */
+    width:65vw;
+    display: flex;
+    flex-direction: column;
+    padding:0 2rem 0 2rem;
+    
+    border-radius: 1rem;
+    /* overflow:scroll; */
+}
+
+.social_links_heading{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.heading3{
+    font-weight: 400;
+    font-size:2rem;
+    text-align:center;
+    display:inline;
+    /* text-decoration: underline; */
+}
+
+.section_heading{
+    padding: 10px 0;
+    border-bottom: 2px solid black;
+}
+
+.social_save_btn{
+    margin-top: 1rem;
+    padding: 5px 10px;
+}
+
+
+
+.social_links_container{
+    height: 90%;
+    overflow-y: scroll;
+    padding: 1rem;
+}
+
+
+@media screen and (max-width:900px){
+    .social_section{
+        padding: 0.5rem;
+        width: 100%;
+    }
+
+    .social_links_container{
+        padding: 0.5rem;
+    }
+
+    .heading3{
+        font-size:1rem;
+    }
+}

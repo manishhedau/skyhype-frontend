@@ -1,0 +1,52 @@
+.Avtar-background{
+    background-image: url("https://images.unsplash.com/photo-1504203772830-87fba72385ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym95fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-size: cover;
+    height:80vh;
+    padding: 0px !important;
+}   
+
+.profile-main-section {
+    position: absolute;
+    width: 100%;
+    bottom: 0
+}
+
+.profile-content{
+    margin: auto;
+    /* margin-top: 18rem; */
+    /* bottom: 0;
+    width: 98%;
+    height: 20rem;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    background: inherit;
+    overflow: hidden; */
+    width: 99%;
+    height: 20rem;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    
+    backdrop-filter: blur(5px);
+    padding: 1.5rem;
+    color: white;
+}
+
+/* .profile-content:before {
+    content: "";
+    position: absolute;
+    background: inherit;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+    filter: blur(10px);
+    margin: -20px;
+  } */

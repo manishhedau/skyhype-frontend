@@ -1,0 +1,28 @@
+
+@media (min-width: 768px)
+{
+    .dashboard
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        min-width: 100vw;
+        min-height: 100vh;
+        height: auto;
+        width: auto;
+    }
+}
+
+@media (min-width: 454px) and (max-width: 767px)
+{
+    .dashboard
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 100vw;
+        min-height: 100vh;
+        height: auto;
+        width: auto;
+    }
+}

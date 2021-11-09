@@ -1,0 +1,111 @@
+.waiting{
+    position: relative;
+}
+
+.waiting__page{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.waiting__list{
+    flex: 50%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.waiting__list__text{
+    width: 80%;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 0px 0px 1rem  rgba(0,0,0,0.5); */
+    border-radius:1rem;
+    padding:2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.waiting__list__text h4{
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.waiting__list__text h5{
+    font-size: 25px;
+}
+
+.waiting__list__text img{
+    height:50px;
+    width:50px;
+}
+
+.waiting__image{
+    flex: 50%;
+    display:flex;
+    height: inherit;
+}
+
+.waiting__list__image{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://skyhype.in/skyhype/Images/Web%201920%20%E2%80%93%203@2x_adobespark.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
+@media screen and (max-width:1000px){
+    .waiting .logo{
+        /* top: 1rem; */
+        color: black;
+        left: 3rem;
+    }
+
+    .waiting__list__text{
+        padding: 1rem;
+    }
+
+    .waiting__list__text h5{
+        font-size: 23px;
+    }
+
+
+}
+
+
+@media screen and (max-width:850px){
+    .waiting__page{
+        flex-direction: column-reverse;
+    }
+    
+    .waiting__list{
+        align-items: start;
+    }
+    .waiting__list__text h4{
+        font-size: 25px;
+    }
+
+    .waiting__list__text h5{
+        font-size: 20px;
+    }
+}
+
+
+
+@media screen and (max-width:750px){
+    .waiting__list__text{
+        width: 90%;
+    }
+
+    .waiting__image{
+        flex: 80%;
+        display:flex;
+        height: inherit;
+    }
+
+}

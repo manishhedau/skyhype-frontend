@@ -1,0 +1,121 @@
+{
+    "country": [
+        {
+            "clicks": 50,
+            "ip_address": "127.0.0.1",
+            "views": 79,
+            "city": "delhi",
+            "country": "India",
+            "device": "mobile",
+            "date": "2020-05-01"
+        },
+        {
+            "clicks": 40,
+            "views": 98,
+            "ip_address": "127.0.0.2",
+            "city": "indore",
+            "country": "US",
+            "device": "desktop",
+            "date": "2020-05-02"
+        },
+        {
+            "clicks": 80,
+            "views": 23,
+            "ip_address": "127.0.0.3",
+            "city": "Mumbai",
+            "country": "France",
+            "device": "tab",
+            "date": "2020-05-03"
+        },
+        {
+            "clicks": 20,
+            "views": 34,
+            "ip_address": "127.0.0.4",
+            "city": "Bangalore",
+            "country": "Pakistan",
+            "device": "tab",
+            "date": "2020-05-04"
+        },
+        {
+            "clicks": 70,
+            "views": 34,
+            "ip_address": "127.0.0.5",
+            "city": "Hyderabad",
+            "country": "Germany",
+            "device": "desktop",
+            "date": "2020-05-05"
+        },
+        {
+            "clicks": 100,
+            "views": 70,
+            "ip_address": "127.0.0.6",
+            "city": "Ahmedabad",
+            "country": "india",
+            "device": "desktop",
+            "date": "2020-05-06"
+        },
+        {
+            "clicks": 45,
+            "views": 76,
+            "ip_address": "127.0.0.7",
+            "city": "Ahmedabad",
+            "country": "China",
+            "device": "desktop",
+            "date": "2020-05-07"
+        },
+        {
+            "clicks": 66,
+            "views": 45,
+            "ip_address": "127.0.0.8",
+            "city": "Ahmedabad",
+            "country": "Korea",
+            "device": "desktop",
+            "date": "2020-05-08"
+        },
+        {
+            "clicks": 78,
+            "views": 22,
+            "ip_address": "127.0.0.9",
+            "city": "Ahmedabad",
+            "country": "Japan",
+            "device": "desktop",
+            "date": "2020-05-09"
+        },
+        {
+            "clicks": 56,
+            "views": 33,
+            "ip_address": "127.0.0.10",
+            "city": "Ahmedabad",
+            "country": "Russia",
+            "device": "desktop",
+            "date": "2020-05-10"
+        },
+        {
+            "clicks": 12,
+            "views": 56,
+            "ip_address": "127.0.0.11",
+            "city": "Ahmedabad",
+            "country": "Iran",
+            "device": "desktop",
+            "date": "2020-05-11"
+        },
+        {
+            "clicks": 12,
+            "views": 40,
+            "ip_address": "127.0.0.12",
+            "city": "Patna",
+            "country": "UAE",
+            "device": "desktop",
+            "date": "2020-05-12"
+        },
+        {
+            "clicks": 12,
+            "views": 12,
+            "ip_address": "127.0.0.13",
+            "city": "Bhopal",
+            "country": "Israel",
+            "device": "desktop",
+            "date": "2020-05-13"
+        }
+    ]
+}

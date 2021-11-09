@@ -1,0 +1,54 @@
+.background-tile
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55%;
+    cursor: pointer;
+    height: 100%;
+    /* background-color: crimson; */
+    border-radius: 10px;
+    border: 7px solid black;
+    transition: 0.3s;
+}
+
+.background-tile:hover
+{
+    transform: scale(1.05);
+}
+
+
+.background-tile p{
+    width: 50%;
+    text-align: center;
+}
+
+@media (min-width: 455px) and (max-width: 850px)
+{
+    .background-tile
+    {
+        width: 100%;
+        height: 100%;
+        transition: 0.2s;
+    }
+
+    .background-tile:hover
+    {
+        transform: scale(1.05);
+    }
+}
+
+@media (max-width: 454px)
+{
+    .background-tile
+    {
+        width: 100%;
+        height: 80%;
+        transition: 0.2s;
+    }
+
+    .background-tile:hover
+    {
+        transform: scale(1.05);
+    }
+}
