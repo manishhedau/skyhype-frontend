@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import { Button, MenuItem, Select } from '@mui/material'
+import { Button } from '@mui/material'
 import { useDispatch, useSelector, } from "react-redux";
 import { TextField } from '@material-ui/core';
 
-import { changeFullName, changeDescription, changeDesignation, changeProfileImage, changeCategory } from "../../../stores/editprofileReducer";
+import { changeFullName, changeDescription, changeDesignation, changeCategory } from "../../../stores/editprofileReducer";
 import { sendEditProfile } from "../../../services/apiEndpoint";
 import Avtar from "../../assets/avtar.jpg";
 import Card from '../../Card';

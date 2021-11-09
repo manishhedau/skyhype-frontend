@@ -5,13 +5,13 @@ import ActivityList from './activity_list';
 
 import { useSelector, useDispatch } from 'react-redux';
 import axios from 'axios';
-import { initializeActivityList, addAcitivityLink } from '../../stores/activityLinksReducer';
-import { useState, useEffect } from 'react';
+import { addAcitivityLink } from '../../stores/activityLinksReducer';
+import { useState } from 'react';
 
 const ActivityPage = (props) => {
 
     const dispatch = useDispatch();
-    const [currentList,setCurrentList] = useState(useSelector((state) => state.entities.activityLinks));
+    const [currentList, setCurrentList] = useState(useSelector((state) => state.entities.activityLinks));
     console.log(currentList);
 
     // const getUserData = async () => {
@@ -28,16 +28,16 @@ const ActivityPage = (props) => {
     //     }
     // },[]);
 
-    
-    
+
+
     console.log("current list: ");
     console.log(currentList);
 
     const addLink = async (e) => {
         e.preventDefault();
-        
+
         setCurrentList(prevList => {
-            
+
             const newLink = {
                 link: "",
                 title: "",
@@ -45,18 +45,16 @@ const ActivityPage = (props) => {
                 schedule: new Date().toString(),
                 click_count: 0,
                 isActive: false
-            }   
+            }
 
-            dispatch(addAcitivityLink({newLink}))
+            dispatch(addAcitivityLink({ newLink }))
             return [newLink, ...prevList];
         });
 
-        try
-        {
-            await axios.put('http://localhost:8080/dashboard/update-activity-links/61815b950cda90d1d126f33b', {activityLinkList: currentList});
+        try {
+            await axios.put('http://localhost:8080/dashboard/update-activity-links/61815b950cda90d1d126f33b', { activityLinkList: currentList });
         }
-        catch(err)
-        {
+        catch (err) {
             console.log(err);
         }
 
@@ -70,21 +68,21 @@ const ActivityPage = (props) => {
         setCurrentList(tempList);
         console.log("List after deletion: \n", currentList);
 
-       // await axios.put('http://localhost:8080/dashboard/update-activity-links/61586892e780f1f06b97b169', currentList);
+        // await axios.put('http://localhost:8080/dashboard/update-activity-links/61586892e780f1f06b97b169', currentList);
     }
 
-    return(
-            <div className="activities-page">
+    return (
+        <div className="activities-page">
 
-                <ProfileLinkSection/>
-                
-                <div className="add-link-controls">
-                    <AddLinkButton addLink={addLink}/>
-                </div>
+            <ProfileLinkSection />
 
-                <ActivityList currentList={currentList} deleteLink={deleteLink}/>
-        
+            <div className="add-link-controls">
+                <AddLinkButton addLink={addLink} />
             </div>
+
+            <ActivityList currentList={currentList} deleteLink={deleteLink} />
+
+        </div>
     );
 }
 

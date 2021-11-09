@@ -63,7 +63,7 @@ export default filterSocialLinksData;
 export const giveLabel = (state) => {
     let { startDate, endDate } = state[0];
 
-    const data = []
+
 
     startDate = new Date(startDate);
     endDate = new Date(endDate);

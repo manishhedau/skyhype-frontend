@@ -2,12 +2,12 @@ import './styles/landing_page.css';
 import Slideshow from '../Slideshow/slideshow';
 import LandingNavbar from './landing_navbar';
 import { Link } from 'react-router-dom';
-import {useState, useEffect} from 'react';
+// import {useState, useEffect} from 'react';
 import AppleStore from '../assets/landing_page/apple_store.png';
 import PlayStore from '../assets/landing_page/play_store.png';
 
 const LandingPage = () => {
-    
+
     return (
         <div className="landing-page">
             <LandingNavbar />
@@ -54,7 +54,7 @@ const LandingPage = () => {
             </div><br/> */}
 
             <div className="slideshow-section">
-                <Slideshow/>
+                <Slideshow />
             </div>
 
 
@@ -84,7 +84,7 @@ const LandingPage = () => {
 
             <section id="section-6">
 
-                <div className="description" style={{zIndex: "5"}}>
+                <div className="description" style={{ zIndex: "5" }}>
                     <h1>And Much More....</h1>
                     <Link to="signup"><button className="btn btn-dark">Get Started</button></Link>
                 </div>
@@ -100,7 +100,7 @@ const LandingPage = () => {
                     <h3>Contact Us</h3>
 
                     <div id="legal-section">
-                        <h5 style={{ width: "100%", textAlign: "center",  }}>LEGAL</h5>
+                        <h5 style={{ width: "100%", textAlign: "center", }}>LEGAL</h5>
                         <div>Privacy</div>
                         <div>Terms</div>
                         <div>Cookie Policy</div>

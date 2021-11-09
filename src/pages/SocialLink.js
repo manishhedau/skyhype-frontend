@@ -74,7 +74,7 @@ const social_links = [
 
 
 export default function SocialLink() {
-    const [defaultSocialLink, setDefaultSocialLink] = useState(social_links);
+    const [defaultSocialLink] = useState(social_links);
     const [isChanged, setIsChanged] = useState(true);
     const [numberOfActiveLinks, setNumberOfActiveLinks] = useState(0);
 

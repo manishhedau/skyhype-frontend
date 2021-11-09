@@ -1,6 +1,6 @@
 import dataset from './datasets/activity_data.json';
 import colors from './datasets/colors.json';
-import {useEffect} from "react";
+// import {useEffect} from "react";
 
 import ActivityLinkTile from './graphs/activity_link_tile';
 
@@ -21,19 +21,19 @@ const ActivityLinkList = () => {
         }
     });
 
-    const finalData = newData.sort((a1,a2) => a1.views-a2.views).reverse();
+    const finalData = newData.sort((a1, a2) => a1.views - a2.views).reverse();
     console.log(finalData);
 
     return (
 
         <div id="activity-link-stats-list">
-            {finalData.map((elem,ind) => {
+            {finalData.map((elem, ind) => {
 
-                const presentLineColor = colors[Math.floor(Math.random()*colors.length)].hexString;
+                const presentLineColor = colors[Math.floor(Math.random() * colors.length)].hexString;
                 colorList.push(presentLineColor);
-                
+
                 return (
-                    <ActivityLinkTile key={ind} presentLineColor={presentLineColor} ind={ind} elem={elem}/>
+                    <ActivityLinkTile key={ind} presentLineColor={presentLineColor} ind={ind} elem={elem} />
                 );
             })}
         </div>
@@ -41,4 +41,4 @@ const ActivityLinkList = () => {
 }
 
 export default ActivityLinkList;
-export {colorList}
+export { colorList }

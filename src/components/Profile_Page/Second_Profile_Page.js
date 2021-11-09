@@ -1,7 +1,7 @@
 import React from 'react'
 import "./styles/second_profile_page.css";
 
-import Avtar from "../assets/avtar.jpg";
+// import Avtar from "../assets/avtar.jpg";
 function SecondProfilePage() {
     return (
         <div className="profile-container" >

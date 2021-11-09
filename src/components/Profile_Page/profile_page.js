@@ -4,7 +4,7 @@ import { useEffect, useState, useRef } from 'react';
 import { callIPInfo, getUserDetails, sendActivityLinkClickInfo, sendSocialLinkClickInfo, sendJoinClickInfo, sendViewInfo, sendJoinClubUserInfo } from "../../services/apiEndpoint";
 import { useParams } from 'react-router-dom';
 
-import SecondProfilePage from "./Second_Profile_Page";
+// import SecondProfilePage from "./Second_Profile_Page";
 
 import UAParser from "ua-parser-js";
 
@@ -27,6 +27,10 @@ const ProfilePage = () => {
     const [isVisible, setIsVisible] = useState(false);
     const fullnameRef = useRef();
     const emailRef = useRef();
+
+    console.log(ipInfo);
+    console.log(uaParserInfo)
+
 
     const store = {
 
@@ -121,6 +125,7 @@ const ProfilePage = () => {
     }, [])
 
     const { social_link_list, fullname, description, designation, activity_links_list, view } = userInfo;
+    console.log(description)
 
     const spotlight = activity_links_list.splice(0, 1);
     // console.log("spotlight : ", spotlight);

@@ -29,18 +29,19 @@ const options = {
     }
 }
 
-function LineChartSocial({ socialLinksData, label }) {
+function LineChartSocial({ socialLinksData = [], label }) {
     const datasets = [];
-    socialLinksData.map((dataObject, index) => {
+    const sl = socialLinksData.map((dataObject, index) => {
         datasets.push({
             type: 'line',
             label: dataObject.social_media,
             data: dataObject.total,
             borderColor: backgroundColors[index],
-
         });
+        return dataObject;
     })
 
+    console.log(sl);
     const state = {
         labels: label,
         datasets: datasets,

@@ -41,7 +41,7 @@ const data = [
 ]
 
 function Groups() {
-    const [persons, setPersons] = useState(data);
+    const [persons] = useState(data);
 
     return (
         <Card>

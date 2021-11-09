@@ -4,14 +4,14 @@ import 'react-phone-input-2/lib/style.css'
 import { useField, useFormikContext } from 'formik';
 // import { borderColor } from '@mui/system';
 
-import IntlTelInput from 'react-intl-tel-input';
+// import IntlTelInput from 'react-intl-tel-input';
 import 'react-intl-tel-input/dist/main.css';
 
 function Phoneinput({ name, isClick }) {
 
     const { setFieldValue } = useFormikContext();
     const [field, meta] = useField(name);
-    // console.log()
+    console.log(field)
 
     const handleChange = (evt, country, e, formatetedValue) => {
 

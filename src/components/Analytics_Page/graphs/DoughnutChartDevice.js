@@ -22,6 +22,7 @@ const profileObjectData = profileData.profile
 
 const totalViews = profileObjectData.length;
 let totalClick = 0;
+console.log(totalClick);
 
 const data = [
     {

@@ -1,7 +1,7 @@
 import DoughnutChartDevice from './graphs/DoughnutChartDevice';
 import LineChartSocial from './graphs/LineChartSocial';
 import BarChart from './graphs/activity_barchart_modified';
-import ActivityLinkLinechart from './graphs/activity_links_linechart';
+// import ActivityLinkLinechart from './graphs/activity_links_linechart';
 import ActivityLinkList from './activity_link_list';
 
 import './styles/analytics_page.css';
@@ -42,7 +42,6 @@ const AnalyticsPage = () => {
     const viewFilterData = filterViewDetailsData(state, viewDetails);
     const joinMyClubClickDetails = editProfile?.join_club?.click_details;
     const [
-        joinMyyClubClickDetailsFilterData,
         dateWiseFilterJoinMyClubData
     ] = filterJoinMyClubClickDetails(state, joinMyClubClickDetails);
     // console.log("Join my club click details filter data : ", joinMyyClubClickDetailsFilterData);

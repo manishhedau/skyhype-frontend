@@ -1,6 +1,5 @@
 import './styles/preview.css';
 import ActivityTile from './activity_tile';
-import { useReducer } from 'react';
 import { useSelector } from 'react-redux';
 
 const Preview = () => {
@@ -36,7 +35,7 @@ const Preview = () => {
 
                 <p className="skyhype-logo">Skyhype</p>
 
-                <img className="profile-image" src={store.profile_image} alt={store.username} />
+                <img className="profile-image" src={store.profile_image} alt="somtjing" />
 
                 <div className="profile-info">
 
@@ -57,7 +56,7 @@ const Preview = () => {
                 </div>
 
                 <div className="slideshow">
-                    <img src="https://miro.medium.com/max/4800/1*scwcpro6eU-pORVH_Fpc_g.png" />
+                    <img src="https://miro.medium.com/max/4800/1*scwcpro6eU-pORVH_Fpc_g.png" alt="medium" />
                 </div>
 
                 <div className="activity-links">

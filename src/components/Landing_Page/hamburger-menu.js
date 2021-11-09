@@ -2,12 +2,11 @@ import { Link } from 'react-router-dom';
 import './styles/landing_navbar.css';
 
 const HamburgerMenu = (props) => {
-    const {isOpen,handleToggle} = props;
+    const { isOpen, handleToggle } = props;
 
     // <i className="fas fa-times"></i>
 
-    if(isOpen)
-    {
+    if (isOpen) {
         return (
             <div className="hamburger-menu">
 
@@ -20,13 +19,12 @@ const HamburgerMenu = (props) => {
                     <Link to="/signup"><div>Signup</div></Link>
 
                 </div>
-                
+
             </div>
         );
     }
 
-    else
-    {
+    else {
         return (
             <div onClick={handleToggle} className="hamburger-menu" id="open-menu">
                 <i className="fas fa-bars"></i>

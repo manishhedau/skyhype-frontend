@@ -5,7 +5,7 @@ import validator from 'validator';
 import { Link, useHistory } from 'react-router-dom';
 
 import axios from 'axios';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 const LoginPage = () => {
 
@@ -41,7 +41,7 @@ const LoginPage = () => {
             console.log(error);
         }
 
-        else if (!validator.isMobilePhone(currentNumber) || currentNumber.length != 10) {
+        else if (!validator.isMobilePhone(currentNumber) || currentNumber.length !== 10) {
             setError("Invalid Mobile Number");
             console.log(error);
         }

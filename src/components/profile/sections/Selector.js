@@ -15,14 +15,14 @@ const names = [
     'Creator'
 ];
 
-function getStyles(name, personName, theme) {
-    return {
-        fontWeight:
-            personName.indexOf(name) === -1
-                ? theme.typography.fontWeightRegular
-                : theme.typography.fontWeightMedium,
-    };
-}
+// function getStyles(name, personName, theme) {
+//     return {
+//         fontWeight:
+//             personName.indexOf(name) === -1
+//                 ? theme.typography.fontWeightRegular
+//                 : theme.typography.fontWeightMedium,
+//     };
+// }
 
 function Selector({ value, onChange }) {
     const [category, setCategory] = React.useState(value);
@@ -36,6 +36,7 @@ function Selector({ value, onChange }) {
         onChange(value);
     }
 
+    console.log(category);
 
     return (
         <div className="form__field">
